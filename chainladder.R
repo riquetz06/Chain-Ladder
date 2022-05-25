@@ -1,4 +1,4 @@
-RESERVAS PARA SEGUROS GENERALES
+#RESERVAS PARA SEGUROS GENERALES
 
 ####################################
 #            Chain Ladder          #
